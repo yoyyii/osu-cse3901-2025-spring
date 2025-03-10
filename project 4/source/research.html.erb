@@ -1,0 +1,40 @@
+---
+title: "Research"
+layout: layout2
+---
+
+<h1>Research</h1>
+
+<ul>
+  <% data.research.each do |res| %>
+    <li>
+      <% if res.link%>
+        <a href="<%= res.link %>" target="_blank"><%= res.title %></a>
+      <% else %>
+        <%= res.title %>
+      <% end%>
+    </li>
+    <li>
+      <%= res.authors%>
+    </li>
+    <li>
+      <%= res.journal%>
+      <% if res.journal2 %>
+        <%= res.journal2%>   
+      <% end %>
+    </li>
+  <% end %>
+</ul>
+
+<h1>Dissertation & Reports</h1>
+
+<ul>
+  <% data.dissertation.each do |diss| %>
+    <li>     
+      <a href="<%= diss.link %>" target="_blank"><%= diss.title %></a>
+    </li>
+    <li>
+      <%= diss.status%>
+    </li>
+  <% end %>
+</ul>

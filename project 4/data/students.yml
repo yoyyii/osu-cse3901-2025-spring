@@ -1,0 +1,24 @@
+- Fname: "Yifan"
+  Lname: "Mao"
+  status: "Ph.D"
+
+- Fname: "Yunqi"
+  Lname: "Zhang"
+  status: "Ph.D"
+  link: https://yunqiz.com/
+
+- Fname: "Jingren"
+  Lname: "Wei"
+  status: "Ph.D"
+
+- Fname: "Arti"
+  Lname: "Vedula"
+  status: "Ph.D, co-advised with Prof. Abhishek Gupta"
+
+- Fname: "Patrick"
+  Lname: "Yang"
+  status: "Masters"
+
+- Fname: "Mei"
+  Lname: "Gunawardena"
+  status: "Undergrad"

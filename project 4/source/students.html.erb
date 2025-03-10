@@ -1,0 +1,18 @@
+---
+title: "Students"
+layout: layout2
+---
+
+<h1>Students</h1>
+
+<ul>
+  <% data.students.each do |std| %>
+    <li>
+      <% if std.link %>
+        <a href="<%= std.link %>" target="_blank"><%= std.Fname %> <%= std.Lname %> (<%= std.status %>)</a>
+      <% else %>
+        <%= std.Fname %> <%= std.Lname %> (<%= std.status %>)
+      <% end %>
+    </li>
+  <% end %>
+</ul>

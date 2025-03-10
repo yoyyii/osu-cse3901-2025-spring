@@ -1,0 +1,24 @@
+- semester: "Spring"
+  year: "'23"
+  code: "CSE 5469"
+  name: "Introduction to blockchains and decentralized applications"
+
+- semester: "Spring"
+  year: "'23"
+  code: "CSE 3461"
+  name: "Computer Networking"
+
+- semester: "Spring"
+  year: "'22"
+  code: "CSE 3461"
+  name: "Computer Networking"
+
+- semester: "Spring"
+  year: "'21"
+  code: "CSE 3461"
+  name: "Computer Networking"
+
+- semester: "Spring"
+  year: "'21"
+  code: "CSE 5469"
+  name: "Data-driven Algorithms for Networking Systems"

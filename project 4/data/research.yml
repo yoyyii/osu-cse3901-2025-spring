@@ -1,0 +1,129 @@
+- title: "Honeybee: Decentralized Peer Sampling with Verifiable Random Walks for Blockchain Data Sharding"
+  authors: "Yunqi Zhang, Shaileshh Bojja Venkatakrishnan"
+  journal: "ArXiv preprint"
+  link: "https://arxiv.org/abs/2402.16201"
+
+- title: "Flashback: Enhancing Proposer-Builder Design with Future-Block Auctions in Proof-of-Stake Ethereum"
+  authors: "Yifan Mao, Mengya Zhang, Shaileshh Bojja Venkatakrishnan, Zhiqiang Lin"
+  journal: "ArXiv preprint"
+  link: "https://arxiv.org/abs/2405.09465"
+
+- title: "Masquerade: Simple and Lightweight Transaction Reordering Mitigation in Blockchains"
+  authors: "Arti Vedula, Shaileshh Bojja Venkatakrishnan, Abhishek Gupta"
+  journal: "ArXiv preprint"
+  link: "https://arxiv.org/abs/2308.15347"
+
+- title: "Topiary: Fast, Scalable Publish/Subscribe for Peer-to-Peer (D)Apps"
+  authors: "Yifan Mao, Shaileshh Bojja Venkatakrishnan"
+  journal: "ArXiv preprint"
+  link: "https://arxiv.org/abs/2312.06800"
+
+- title: "Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems"
+  authors: "Yifan Mao, Yunqi Zhang, Shaileshh Bojja Venkatakrishnan, Giuliano Losa"
+  journal: "FC 2025" 
+
+- title: "Web3-based Storage Solutions for Biomedical Research and Clinical Data Exchange"
+  authors: "Julian Tugaoen, Alana Becker, Chenmeinian Guo, Efthimios Parasidis, Shaileshh Bojja Venkatakrishnan, Jose Javier Otero"
+  journal: "Journal of the American Medical Informatics Association 2024"
+  link: "https://academic.oup.com/jamia/article-abstract/31/3/790/7492679?redirectedFrom=PDF&casa_token=zv8UH7JkXXQAAAAA:Zof0RWPw706-jmnU18nWSkavggRwDDqUkD1WcDvgK4vjJ2WzcfQJ7KkzTtw17p2MNarPfu-MK2Ae"
+
+- title: "Rethinking Incentive in Payment Channel Networks"
+  authors: "Yunqi Zhang, Shaileshh Bojja Venkatakrishnan"
+  journal: "ICDCS workshop, 2023"
+
+- title: "PolicyClusterGCN: Identifying Efficient Clusters for Training Graph Convolutional Networks"
+  authors: "Saket Gurukar, Shaileshh Bojja Venkatakrishnan, Balaraman Ravindran, Srinivasan Parthasarathy"
+  journal: "ASONAM 2023"
+  link: "https://ieeexplore.ieee.org/document/10302968"
+
+- title: "Blockchain Bandits: Optimizing Mining Rewards in Proof-of-Work Network Games"
+  authors: "Arti Vedula, Abhishek Gupta, Shaileshh Bojja Venkatakrishnan"
+  journal: "ICBC 2023"
+  link: "https://ieeexplore.ieee.org/document/10174933"
+
+- title: "Goldfish: Peer Selection using Matrix Completion in Unstructured P2P Network"
+  authors: "Bowen Xue, Yifan Mao, Shaileshh Bojja Venkatakrishnan, Sreeram Kannan"
+  journal: "ICBC 2023 (nominated for best paper)"
+  link: "https://ieeexplore.ieee.org/document/10174871"
+
+- title: "Kadabra: Adapting Kademlia for the Decentralized Web"
+  authors: "Yunqi Zhang, Shaileshh Bojja Venkatakrishnan"
+  journal: "FC 2023"
+  link: "https://arxiv.org/abs/2210.12858"
+
+- title: "DecVi: Adaptive Video Conferencing on Open Peer-to-Peer Networks"
+  authors: "Jingren Wei, Shaileshh Bojja Venkatakrishnan"
+  journal: "ICDCN workshop, 2023"
+  link: "https://arxiv.org/pdf/2209.00695.pdf"
+
+- title: "Less is More: Understanding Network Bias in Proof-of-Work Blockchains"
+  authors: "Yifan Mao, Shaileshh Bojja Venkatakrishnan"
+  journal: "Mathematics, 2023"
+  link: "https://www.mdpi.com/2227-7390/11/23/4741"
+
+- title: "The Effect of Network Topology on Credit Network Throughput"
+  authors: "Vibhaalakshmi Sivaraman, Weizhao Tang, Shaileshh Bojja Venkatakrishnan, Giulia Fanti, Mohammad Alizadeh"
+  journal: "Performance 2021"
+  link: "https://arxiv.org/pdf/2103.03288.pdf"
+
+- title: "Perigee: Efficient Peer-to-Peer Network Design for Blockchains"
+  authors: "Yifan Mao, Soubhik Deb, Shaileshh Bojja Venkatakrishnan, Sreeram Kannan, Kannan Srinivasan"
+  journal: "PODC 2020"
+  link: "https://drive.google.com/file/d/1ChBypxj0ry5-rAMpN9RodC4JDZ5GdQv4/view?usp=sharing"
+
+- title: "High Throughput Cryptocurrency Routing in Payment Channel Networks"
+  authors: "Vibhaalakshmi Sivaraman, Shaileshh Bojja Venkatakrishnan, Kathleen Ruan, Parimarjan Negi, Lei Yang, Radhika Mittal, Giulia Fanti, Mohammad Alizadeh"
+  journal: "NSDI 2020"
+  link: "https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf"
+
+- title: "Learning Generalizable Device Placement Algorithms for Distributed Machine Learning"
+  authors: "Ravichandra Addanki, Shaileshh Bojja Venkatakrishnan, Shreyan Gupta, Hongzi Mao, Mohammad Alizadeh"
+  journal: "NeurIPS 2019"
+  link: "https://papers.nips.cc/paper/8653-learning-generalizable-device-placement-algorithms-for-distributed-machine-learning.pdf"
+
+- title: "Park: An Open Platform for Learning-AugmentedComputer Systems"
+  authors: "Hongzi Mao, Parimarjan Negi, Akshay Narayan, Hanrui Wang, Jiacheng Yang, Haonan Wang, Ryan Marcus, Ravichandra Addanki, Mehrdad Khani, Songtao He, Vikram Nathan, Frank Cangialosi, Shaileshh Bojja Venkatakrishnan, Wei-Hung Weng, Song Han, Tim Kraska, Mohammad Alizadeh"
+  journal: "NeurIPS 2019"
+  link: "https://papers.nips.cc/paper/8519-park-an-open-platform-for-learning-augmented-computer-systems.pdf"
+
+- title: "Variance Reduction for Reinforcement Learning in input-Driven Environments"
+  authors: "Hongzi Mao, Shaileshh Bojja Venkatakrishnan, Malte Schwarzkopf, Mohammad Alizadeh"
+  journal: "ICLR 2019"
+  link: "https://openreview.net/pdf?id=Hyg1G2AqtQ"
+
+- title: "Learning Scheduling Algorithms for Data Processing Clusters"
+  authors: "Hongzi Mao, Malte Schwarzkopf, Shaileshh Bojja Venkatakrishnan, Zili Meng, Mohammad Alizadeh"
+  journal: "ACM Sigcomm 2019"
+  link: "https://dl.acm.org/doi/pdf/10.1145/3341302.3342080"
+
+- title: "Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees"
+  authors: "Giulia Fanti, Shaileshh Bojja Venkatakrishnan, Surya Bakshi, Bradley Denby, Shruti Bhargava, Andrew Miller, Pramod Viswanath"
+  journal: "ACM Sigmetrics 2018"
+  link: "https://dl.acm.org/doi/pdf/10.1145/3224424"
+
+- title: "Dandelion: Redesigning the Bitcoin Network for Anonymity"
+  authors: "Shaileshh Bojja Venkatakrishnan, Giulia Fanti, Pramod Viswanath"
+  journal: "ACM Sigmetrics 2017"
+  link: "https://dl.acm.org/doi/pdf/10.1145/3084459"
+
+- title: "Costly Circuits, Submodular Schedules: Hybrid Switch Scheduling for Data Centers"
+  authors: "Shaileshh Bojja Venkatakrishnan, Mohammad Alizadeh, Pramod Viswanath"
+  journal: "ACM Sigmetrics 2016"
+  journal2: "Queuing Systems 2017"
+  link: "https://dl.acm.org/doi/pdf/10.1145/2896377.2901479?download=true"
+
+- title: "Information Complexity Density and Simulation of Protocols"
+  authors: "Himanshu Tyagi, Shaileshh Venkatakrishnan, Pramod Viswanath, Shun Watanabe"
+  journal: "Innovations in Theoretical Computer Science (ITCS) 2015"
+  journal2: "IEEE Transactions on Information Theory 2017"
+  link: "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzaGFpbGVzaGhidnxneDoxYWFhNGM3NWVlZGY5Yzkz"
+
+- title: "Deterministic Near-Optimal P2P Streaming"
+  authors: "Shaileshh Bojja Venkatakrishnan, Pramod Viswanath"
+  journal: "ACM Sigmetrics 2015"
+  link: "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzaGFpbGVzaGhidnxneDo1ZmI3MDQ1ZjY5NDUxYzAy"
+
+- title: "Degrees of Freedom for Multiple Multicast Traffic"
+  authors: "Shaileshh Bojja Venkatakrishnan, Sreeram Kannan, Pramod Viswanath"
+  journal: "International Symposium on Information Theory (ISIT) 2014"
+  link: "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzaGFpbGVzaGhidnxneDo2MzQwM2NlNjYzN2RkYmEx"

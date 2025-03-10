@@ -1,0 +1,30 @@
+  - role: "TPC member"
+    conference: "Sigmetrics '23"
+
+  - role: "Organizer"
+    event: "Workshop on Blockchains and Networking"
+    conference: "Sigmetrics '22"
+
+  - role: "TPC member"
+    conference: "Sigmetrics '22"
+
+  - role: "TPC member"
+    conference: "ICBC '22"
+
+  - role: "TPC member"
+    conference: "ITC '34"
+
+  - role: "TPC member"
+    conference: "Mobihoc '22"
+
+  - role: "TPC member"
+    conference: "Sigmetrics '21"
+
+  - role: "TPC member"
+    conference: "Mobihoc '22"
+
+  - role: "TPC member"
+    conference: "Decentralising the Internet with IPFS and Filecoin (DI2F)"
+    link: "https://networking.ifip.org/2021/"
+    conference2: "IFIP Networking '21"
+    link2: "https://networking.ifip.org/2021/"

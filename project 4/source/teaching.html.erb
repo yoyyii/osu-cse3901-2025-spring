@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+layout: layout2
+---
+
+<h1>Teaching</h1>
+
+<% grouped_teaching = data.teaching.group_by { |t| "#{t[:semester]} #{t[:year]}" } %>
+
+<% grouped_teaching.each do |semester, courses| %>
+  <p><strong><%= semester %>:</strong></p>
+  <ul>
+    <% courses.each do |course| %>
+      <li><%= course[:code] %>: <%= course[:name] %></li>
+    <% end %>
+  </ul>
+<% end %>
